@@ -1,0 +1,31 @@
+h1 {
+    color: #ffff00;
+}
+
+p {
+    color: #000;
+    background-color: #3BA4EB;
+}
+
+.texto-paragrafo {
+    color: #800080;
+}
+
+.usando-rem {
+    font-size: 2rem;
+}
+
+.usando-em {
+    font-size: 2em;
+}
+
+.usando-px {
+    font-size: 32px;
+}
+
+.descricao {
+    font-size: 20px;
+    text-align: center;
+    font-family: "Host Grotesk", sans-serif;
+    font-weight: 300;
+}
