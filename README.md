@@ -1,5 +1,5 @@
 # PretaLab-Ciclo-formativo-introdutório
-Minha participação da formação introdutória à tecnologia da Pretalab com apoio da Disney.
+Minha participação na formação introdutória à tecnologia da Pretalab com apoio da Disney.
 Este ciclo é disponibilizado para mulheres negras e índigenas que tem interesse de aprender ou iniciar uma carreira em tecnologia.
 Foram 6 semanas de curso, onde aprendemos:
 - conceitos introdutórios;
